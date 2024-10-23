@@ -1,7 +1,4 @@
-#!/usr/bin/python3
 
-# Exercise from the day, 10/18/24
-# By @urregozw
 
 
 import itertools
